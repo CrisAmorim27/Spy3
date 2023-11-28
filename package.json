@@ -1,7 +1,7 @@
 {
-  "name": "UZUMAKI-BOT",
+  "name": "SPY-BOT",
   "version": "3.0.0",
-  "description": "UZUMAKI-V3",
+  "description": "SPY-V3",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
