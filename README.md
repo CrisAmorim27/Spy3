@@ -1,9 +1,9 @@
-UZUMAKI-BOT - Versão 3.0
+SPY-BOT - Versão 3.0
 
 Bem-vindo ao meu perfil do GitHub!
-Esta é a versão 3.0 do UZUMAKI-BOT.
+Esta é a versão 3.0 do SPY-BOT.
 
-### Sobre o UZUMAKI-V3
+### Sobre V3
 
 - 🚀 Explorando novas funcionalidades e aprimoramentos.
 
@@ -19,15 +19,15 @@ termux-setup-storage
 ```
 **3 comando**
 ```
-cd /sdcard/
+cd /sdcard/Spy3
 ```
 **4 comando**
 ```
-git clone https://github.com/BLSFAFSJD/UZUMAKI-V3
+git clone https://github.com/CrisAmorim27/Spy3
 ```
 **5 comando**
 ```
-cd /sdcard/UZUMAKI-V3
+cd /sdcard/Spy3
 ```
 **6 comando**
 ```
@@ -35,7 +35,7 @@ sh start.sh
 ```
 ### Suporte
 
-- Para obter suporte ou adquirir a versão editável, [entre em contato aqui](https://wa.me/557999275667)
+- Para obter suporte ou adquirir a versão editável, [entre em contato aqui](https://wa.me/554884702848)
 
 ### Agradecimentos
 
