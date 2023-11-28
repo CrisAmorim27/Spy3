@@ -7,10 +7,10 @@ blue="\033[0;34m"
 
 while :
 do
-    echo "${verde}༄••🌀 『INICIANDO UZUMAKI-V3』 🌀••༄"
+    echo "${verde}༄••🌀 『INICIANDO SPY-V3』 🌀••༄"
     node index.js
     sleep 1
 done
 
 # Sistema para evitar que o bot caia
-# Use "sh start.sh" no Termux para iniciar o script
+# Use "sh start.sh" no para iniciar o script
